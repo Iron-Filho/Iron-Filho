@@ -2,8 +2,8 @@
 
 **´Desenvolvedor Júniior´**
 
-Me chamo Iron Filho, tenho 20 anos e sou natural de Perambuco.
-Concluí meu ensino médio na Escola Técnica Estadual Maria José de Vasconcelos 
+Me chamo Iron Filho, tenho 20 anos e sou natural de Pernambuco.
+Concluí meu ensino médio na Escola Técnica Estadual Maria José Vasconcelos 
 com o curso técnico Manutenção e Suporte em Informática. Atualmente estou cursando
 Engenharia da Computação na ANHANGUERA. Sou facinado pelo mundo tecnológico e estou
 buscando um emprego no mundo da tecnologia que possa alavancar o meu propósito, 
