@@ -1,6 +1,6 @@
 🔵 Iron Filho
 
-**´Desenvolvedor Júniior´**
+**´Desenvolvedor Júnior´**
 
 Me chamo Iron Filho, tenho 20 anos e sou natural de Pernambuco.
 Concluí meu ensino médio na Escola Técnica Estadual Maria José Vasconcelos 
