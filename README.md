@@ -13,7 +13,7 @@ no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quan
 <p align="left">
     <a href="https://www.linkedin.com/in/iron-filho">
     <img 
-        alt="Linkedin" title="Siga-me no Linkedin" src="https://img.shields.io/badge/LinkedIn&style=for-the-badge&logo=linkedin"/>
+        alt="Linkedin" title="Siga-me no Linkedin" src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin"/>
     </a>
     <a href="https://github.com/Iron-Filho">
     <img 
