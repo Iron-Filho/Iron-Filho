@@ -11,12 +11,12 @@ desenvolvo alguns projetos que podem ser acompanhados tanto pelo meu perfil
 no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quanto pelo Github "[GitHub](https://github.com/Iron-Filho)".
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/iron-filho-1920662a6">
+    <a href="https://www.linkedin.com/in/iron-filho">
      <img 
-        alt="Linkedin" title="Siga-me no Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/IronFilho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Linkedin&logoColor=white"/></a>
+        alt="Linkedin" title="Siga-me no Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/Iron-Filho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Linkedin&logoColor=white"/></a>
     <a href="https://github.com/Iron-Filho">
     <img 
-        alt="Github" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/stars/IronFilho?color=55960c&style=for-the-badge&labelColor=488207&logo=Github"/></a>
+        alt="Github" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/stars/Iron-Filho?color=55960c&style=for-the-badge&labelColor=488207&logo=Github"/></a>
    </p>
 <br/>
 
@@ -102,6 +102,12 @@ no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quan
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"                       
 />
-
-
+<img   
+    aling= "left"
+    alt= "CSS"
+    title= "CSS"
+    width= "30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+                                 
 <br/>
