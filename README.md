@@ -86,4 +86,4 @@ no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quan
 
 ### 💹 Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iron-Filho)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iron-Filho&show_icons=true&theme=radical)
