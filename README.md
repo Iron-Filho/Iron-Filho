@@ -1,6 +1,6 @@
 🔵 Iron Filho
 
-**´Desenvolvedor Júnior´**
+**Desenvolvedor Júnior**
 
 Me chamo Iron, sou natural de Pernambuco.
 Concluí meu ensino médio na Escola Técnica Estadual Maria José Vasconcelos 
