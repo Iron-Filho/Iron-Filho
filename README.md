@@ -8,7 +8,7 @@ com o curso técnico Manutenção e Suporte em Informática. Atualmente estou cu
 Engenharia da Computação na ANHANGUERA. Sou facinado pelo mundo tecnológico e estou
 buscando oportunidades no mundo da tecnologia que possam alavancar o meu propósito, 
 desenvolvo alguns projetos que podem ser acompanhados tanto pelo meu perfil 
-no Linkedin "[Iron Filho](https://www.linkedin.com/in/iron-filho-1920662a6)", quanto pelo Github "[Iron Filho](https://github.com/Iron-Filho)".
+no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quanto pelo Github "[GitHub](https://github.com/Iron-Filho)".
 
 <p align="left">
     <a href="https://www.linkedin.com/in/iron-filho-1920662a6">
