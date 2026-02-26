@@ -18,6 +18,9 @@ no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quan
         <a href="https://www.instagram.com/ironfilho_/">
             <img 
         alt="Instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+        <a href = "mailto:ironfilho8@gmail.com">
+            <img 
+            alt="Gmail" title="Entre em contato" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
        </p>
     <br/>
 </div>
