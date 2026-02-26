@@ -83,12 +83,12 @@ no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quan
 />
 
 <br/>
-
+e
 ### 💹 Estatísticas
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200px" 
-  src="https://github-readme-stats.vercel.app/api?username=Iron-Filho&show_icons=true&theme=tokyonight" 
-/>
+<div>
+    <a href="https://github.com/Iron-Filho">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Iron-Filho&show_icons=true&theme=tokyonight"/>
+    <img heigth="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-Filho)(https://github.com/anuraghazra/github-readme-stats)"/>
+    
+</div>
