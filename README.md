@@ -2,11 +2,11 @@
 
 **´Desenvolvedor Júnior´**
 
-Me chamo Iron Filho, tenho 20 anos e sou natural de Pernambuco.
+Me chamo Iron, sou natural de Pernambuco.
 Concluí meu ensino médio na Escola Técnica Estadual Maria José Vasconcelos 
 com o curso técnico Manutenção e Suporte em Informática. Atualmente estou cursando
 Engenharia da Computação na ANHANGUERA. Sou facinado pelo mundo tecnológico e estou
-buscando um emprego no mundo da tecnologia que possa alavancar o meu propósito, 
+buscando oportunidades no mundo da tecnologia que possam alavancar o meu propósito, 
 desenvolvo alguns projetos que podem ser acompanhados tanto pelo meu perfil 
 no Linkedin "[Iron Filho](https://www.linkedin.com/in/iron-filho-1920662a6)", quanto pelo Github "[Iron Filho](https://github.com/Iron-Filho)".
 
