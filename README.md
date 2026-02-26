@@ -14,11 +14,7 @@ no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quan
     <p align="left">
         <a href="https://www.linkedin.com/in/iron-filho">
             <img 
-            alt="Linkedin" title="Siga-me no Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-        </a>
-        <a href="https://github.com/Iron-Filho">
-            <img 
-            alt="Github" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/stars/Iron-Filho?color=55960c&style=for-the-badge&labelColor=488207&logo=Github"/></a>
+            alt="Linkedin" title="Siga-me no Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
         <a href="https://www.instagram.com/ironfilho_/">
             <img 
         alt="Instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
