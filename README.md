@@ -86,9 +86,4 @@ no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quan
 
 ### 💹 Estatísticas
 
-<div>
-    <a href="https://github.com/Iron-Filho">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Iron-Filho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-    
-</div>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Iron-Filho&show_icons=true&theme=tokyonight)
