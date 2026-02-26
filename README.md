@@ -90,5 +90,5 @@ no LinkedIn "[LinkedIn](https://www.linkedin.com/in/iron-filho-1920662a6)", quan
     aling= "left"
     alt= "GitHub Stats"
     heigth= "200px"
-    src= "https://github-readme-stats.vercel.app/api?username=Iron-Filho&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)"
+    src= ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-Filho&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 />
